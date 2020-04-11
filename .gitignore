@@ -127,3 +127,6 @@ dmypy.json
 .idea/PyBrain.iml
 .idea/workspace.xml
 .idea/vcs.xml
+.idea/$CACHE_FILE$
+.idea/dictionaries
+.idea/inspectionProfiles/profiles_settings.xml
